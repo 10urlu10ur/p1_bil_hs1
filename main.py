@@ -11,10 +11,10 @@
 # ad = input("Adın ne? ")
 # uzunluk = len(ad)
 # print(uzunluk)
-sayı1 = input("İlk sayıyı giriiniz")
-sayı2 = input("İkinci sayıyı giriiniz")
-sayı3 = sayı1
-sayı1 = sayı2
-sayı2 = sayı3
-print("İlk sayı: "+sayı1)
-print("İkinci sayı: "+sayı2)
+# sayı1 = input("İlk sayıyı giriiniz")
+# sayı2 = input("İkinci sayıyı giriiniz")
+# sayı3 = sayı1
+# sayı1 = sayı2
+# sayı2 = sayı3
+# print("İlk sayı: "+sayı1)
+# print("İkinci sayı: "+sayı2)
