@@ -18,3 +18,4 @@
 # sayı2 = sayı3
 # print("İlk sayı: "+sayı1)
 # print("İkinci sayı: "+sayı2)
+print("merhaba")
